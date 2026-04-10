@@ -71,12 +71,13 @@ The model generates:
 
 ## 📁 Project Structure
 
+```
 defi-risk-analysis/
 │
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Run
